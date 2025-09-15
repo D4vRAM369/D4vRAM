@@ -26,7 +26,8 @@ More project would be published when I finished them totally, and even more proj
 
 Here is my tip jar if you want to contribute to make my life a bit easier in the economical way due my work.
 
-https://buymeacoffee.com/d4vram369
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=D4vRAM369&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/D4vRAM369)
+
 
 <!---
 painkiller1717/painkiller1717 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
