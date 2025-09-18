@@ -15,7 +15,7 @@ Además me interesa mucho la creación de módulos de Magisk y LSPosed, ¡Me res
 
 ---
 
-### ACTUALIZACIÓN 15/09/2025
+### 📌 ACTUALIZACIÓN 15/09/2025
 
 Ha pasado un tiempo desde la creación de este repositorio con una presentación README.md.
 
@@ -46,7 +46,7 @@ I'm also very interested in creating Magisk and LSPosed modules. I find it fasci
 - 💞️ I'm looking to collaborate on open source projects mainly in the future (and also with more ambitious goals, of course), as well as some closed source projects in the future, but at least not for now and not for a long time. For now, I'm self-taught, using my own tempus and my own $PATH (in the future, I want to obtain the DAM and DAW VT certifications, and I will).
 - 📫 You can contact me via Telegram at t.me/D4vRAM369
 
-### UPDATE 09/15/2025
+### 📌 UPDATE 09/15/2025
 
 It's been a while since I created this repository with a README.md presentation.
 
