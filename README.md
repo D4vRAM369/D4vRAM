@@ -58,7 +58,7 @@ I'm a neurodivergent mind with a quite probable ADHD not diagnosed yet, and for 
 
 ### 🚀 Current published projects
 
-**WhatsMicFix**: LSPosed module to improve WhatsApp audio quality by applying a configurable pre-boost to the microphone (tested on Pixel 8, Android 16). Created to solve the annoying problem that many Pixel device users experience, where WhatsApp audio is recorded at low volume. I hope it helps you as much as it helps me!
+- **WhatsMicFix**: LSPosed module to improve WhatsApp audio quality by applying a configurable pre-boost to the microphone (tested on Pixel 8, Android 16). Created to solve the annoying problem that many Pixel device users experience, where WhatsApp audio is recorded at low volume. I hope it helps you as much as it helps me!
 - **NowPlayingExporterPy**: Exports the Now Playing history (Android System Intelligence, ASI) from Google Pixel devices to CSV, and adds a function to download the songs listed in that history (via yt-dlp) to the app’s storage.
 
 More project would be published when I finished them totally, and even more projects which lives in my mind and notebooks, but the process to convert them to code and to reality is just a matter of time and learning process. Step by step, like 2Pac said, "One day at a time" 😉🙏🍀💥
