@@ -4,7 +4,7 @@
 
 ---
 
-- 👋 ¡Hola, soy @D4vRAM y soy un aprendiz de programador, aspirante a Dev y en proceso gradual a convertime en el desarrollador que quiero llegar a ser!
+- 👋 ¡Hola, soy @D4vRAM y soy un estudiante de programación autodidacta, y en proceso gradual a convertime en el desarrollador que quiero llegar a ser!
 - 👀 ¡Me interesa Linux, la programación, los scripts, el desarrollo de apps, el aprendizaje automático, la IA, el hacking ético, el pentesting y la criptografía! Me encanta descargar, probar y conocer todo tipo de apps y software (tantas como pueda). Con Magisk/MagiskDelta/Kitsune o KernelSU se pueden hacer cosas increíbles en un teléfono Android, y con LSPosed sumado a la ecuación ya tienes abierto un gran abanico de posibilidades y personalización.
 
 También estoy aprendiendo Python, profundizando en Bash (muy infravalorado), TypeScript, JavaScript... Un poco de todo pero poco a poco, sin abarcar mucho y sin prisas aprendiendo gradualmente. Me encuentro actualmente estudiando principalmente mediante Project-Based Learning (PBL) o Aprendizaje Basado en Proyectos (ABP) como se llama en español, con ayuda de la IA, tomando muchas notas, y exportando chats para estudiarlos previamente con el código delante, profundizando más aún en conceptos que aún estoy aprendiendo. También quiero crear aplicaciones web, además de para Android y para iOS (más adelante éste último) además de software compatible con Linux y obviamente también con Windows (aunque soy Team Linux 🐧 pero no de la categoría extremista, ya pasé esa racha 😝)
@@ -39,7 +39,7 @@ Publicaré más proyectos cuando los termine por completo, e incluso más proyec
 
 ## 🇬🇧 English
 
-- 👋 Hi, I'm @D4vRAM and I'm a programmer apprentice, aspiring Dev, and on the gradual path to becoming the developer I want to be!
+- 👋 Hi, I'm @D4vRAM and I'm a self-taught programming student, gradually working my way up to becoming the developer I want to be!
 - 👀 I'm interested in Linux, programming, scripting, app development, machine learning, AI, ethical hacking, pentesting, and cryptography! I love downloading, testing, and learning about all kinds of apps and software (as many as I can). With Magisk/MagiskDelta/Kitsune or KernelSU, you can do amazing things on an Android phone, and with LSPosed added to the mix, you're open to a wide range of possibilities and customization.
 I'm also learning Python, going deeper into Bash (very underrated), TypeScript, JavaScript... A little bit of everything but little by little, without taking on too much and without rushing, learning gradually. I'm currently studying mainly through Project-Based Learning (PBL) or Learning Based on Projects (ABP) as it's called in Spanish, with the help of AI, taking a lot of notes, and exporting chats to study them beforehand with the code in front of me, going even deeper into concepts I'm still learning. I also want to create web applications, in addition to those for Android and iOS (more on the latter later), as well as software compatible with Linux and obviously also with Windows (although I'm Team Linux 🐧 but not in the extremist category, I already overcome that stage) 😝
 I'm also very interested in creating Magisk and LSPosed modules. I find it fascinating! But hey, that's a lot, isn't it? So, step by step, friends! Be consistent, have patience, perseverance, and dedication. That's the key.
