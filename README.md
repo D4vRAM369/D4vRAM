@@ -29,7 +29,7 @@ Soy una mente neurodivergente con un probable TDAH aún no diagnosticado, y por 
 
 - **WhatsMicFix**: Módulo LSPosed para mejorar la calidad del audio de WhatsApp aplicando un pre-boost configurable al micrófono (probado en Pixel 8, Android 16). Creado para solucionar el molesto problema que experimentan muchos usuarios de dispositivos Pixel, donde el audio de WhatsApp se graba a bajo volumen. ¡Espero que te ayude tanto como a mí!
 - **NowPlayingExporterPy**: Exporta el historial de reproducción (Android System Intelligence, ASI) desde dispositivos Google Pixel a CSV y añade una función para descargar las canciones de ese historial (vía yt-dlp) al almacenamiento de la app.
-- 
+
 Publicaré más proyectos cuando los termine por completo, e incluso más proyectos que tengo en mente y en mis cuadernos, pero convertirlos en código y hacerlos realidad es solo cuestión de tiempo y aprendizaje. Paso a paso, como decía 2Pac: "Un día a la vez". 😉🙏🍀💥
 
 ### ☕ Apóyame
