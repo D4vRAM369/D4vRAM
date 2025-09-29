@@ -29,6 +29,7 @@ Soy una mente neurodivergente con un probable TDAH aún no diagnosticado, y por 
 
 - **WhatsMicFix**: Módulo LSPosed para mejorar la calidad del audio de WhatsApp aplicando un pre-boost configurable al micrófono (probado en Pixel 8, Android 16). Creado para solucionar el molesto problema que experimentan muchos usuarios de dispositivos Pixel, donde el audio de WhatsApp se graba a bajo volumen. ¡Espero que te ayude tanto como a mí!
 - **NowPlayingExporterPy**: Exporta el historial de reproducción (Android System Intelligence, ASI) desde dispositivos Google Pixel a CSV y añade una función para descargar las canciones de ese historial (vía yt-dlp) al almacenamiento de la app.
+- **CBDcounter**: aplicación minimalista y sencilla para llevar un seguimiento de los CBD que te fumas al día. Con posibilidad de tomar notas diarias, ver historial diario, semanal, mensual y total, y capacidad de Exportar e Importar CSV con los datos guardados.
 
 Publicaré más proyectos cuando los termine por completo, e incluso más proyectos que tengo en mente y en mis cuadernos, pero convertirlos en código y hacerlos realidad es solo cuestión de tiempo y aprendizaje. Paso a paso, como decía 2Pac: "Un día a la vez". 😉🙏🍀💥
 
@@ -60,6 +61,7 @@ I'm a neurodivergent mind with a quite probable ADHD not diagnosed yet, and for 
 
 - **WhatsMicFix**: LSPosed module to improve WhatsApp audio quality by applying a configurable pre-boost to the microphone (tested on Pixel 8, Android 16). Created to solve the annoying problem that many Pixel device users experience, where WhatsApp audio is recorded at low volume. I hope it helps you as much as it helps me!
 - **NowPlayingExporterPy**: Exports the Now Playing history (Android System Intelligence, ASI) from Google Pixel devices to CSV, and adds a function to download the songs listed in that history (via yt-dlp) to the app’s storage.
+- **CBDcounter**: a minimalist and simple app for keeping track of the CBD you smoke each day. It allows you to take daily notes, view your daily, weekly, monthly, and total history, and export and import CSV files with your saved data.
 
 More project would be published when I finished them totally, and even more projects which lives in my mind and notebooks, but the process to convert them to code and to reality is just a matter of time and learning process. Step by step, like 2Pac said, "One day at a time" 😉🙏🍀💥
 
