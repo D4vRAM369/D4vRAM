@@ -11,7 +11,10 @@ También estoy aprendiendo Python, profundizando en Bash (muy infravalorado), Ty
 
 Además me interesa mucho la creación de módulos de Magisk y LSPosed, ¡Me resulta fascinante! Pero vamos que todo esto son muchas cosas, ¿no? ¡Así que paso a paso! Ser constante, tener paciencia, perseverancia y vocación. Esa es la clave.
 - 💞️ Busco colaborar en proyectos de código abierto principalmente en el futuro (y también con objetivos más ambiciosos, por supuesto), además de en un futuro también algunas cosas de código cerrado, pero al menos no por ahora y en mucho tiempo. De momento estoy aprendiendo de forma autodidacta, con mi propio tempus y mi propio $PATH (en el futuro quiero obtener los títulos de VT de DAM y DAW, y los conseguiré).
+
 - 📫 Puedes contactarme por Telegram en t.me/D4vRAM369
+
+- 👤🗣️ Grupo de Telegram para comentar sobre las aplicaciones, sugerencias o cualquier cosa relacionada con mis proyectos: https://t.me/D4vRAM
 
 ---
 
@@ -46,7 +49,13 @@ Publicaré más proyectos cuando los termine por completo, e incluso más proyec
 I'm also learning Python, going deeper into Bash (very underrated), TypeScript, JavaScript... A little bit of everything but little by little, without taking on too much and without rushing, learning gradually. I'm currently studying mainly through Project-Based Learning (PBL) or Learning Based on Projects (ABP) as it's called in Spanish, with the help of AI, taking a lot of notes, and exporting chats to study them beforehand with the code in front of me, going even deeper into concepts I'm still learning. I also want to create web applications, in addition to those for Android and iOS (more on the latter later), as well as software compatible with Linux and obviously also with Windows (although I'm Team Linux 🐧 but not in the extremist category, I already overcome that stage) 😝
 I'm also very interested in creating Magisk and LSPosed modules. I find it fascinating! But hey, that's a lot, isn't it? So, step by step, friends! Be consistent, have patience, perseverance, and dedication. That's the key.
 - 💞️ I'm looking to collaborate on open source projects mainly in the future (and also with more ambitious goals, of course), as well as some closed source projects in the future, but at least not for now and not for a long time. For now, I'm self-taught, using my own tempus and my own $PATH (in the future, I want to obtain the DAM and DAW VT certifications, and I will).
+
 - 📫 You can contact me via Telegram at t.me/D4vRAM369
+
+- 👤👥 Telegram group to discuss applications, suggestions, or anything related to my projects: https://t.me/D4vRAM
+
+
+
 
 ### 📌 UPDATE 09/15/2025
 
