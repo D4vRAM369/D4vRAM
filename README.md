@@ -1,6 +1,5 @@
-[🇪🇸 Español](#-español) | [🇬🇧 English](#-english)
 
-## 🇪🇸 Español
+## 🇮🇨🇪🇸 Español
 
 ---
 
@@ -34,6 +33,10 @@ Soy una mente neurodivergente con un probable TDAH aún no diagnosticado, y por 
 - **NowPlayingExporterPy**: exporta el historial de reproducción (Android System Intelligence, ASI) desde dispositivos Google Pixel a CSV y añade una función para descargar las canciones de ese historial (vía yt-dlp) al almacenamiento de la app.
 - **CBDcounter**: aplicación minimalista y sencilla para llevar un seguimiento de los CBD que te fumas al día. Con posibilidad de tomar notas diarias, ver historial diario, semanal, mensual y total, y capacidad de Exportar e Importar CSV con los datos guardados.
 - **PsychoLogger - Bitácora Psiconáutica**: bitácora psiconáutica privada para Android que te permite registrar sustancias, dosis, set & setting y notas personales, con cifrado local, calendario, estadísticas y recursos de reducción de daños — todo 100% offline y sin enviar datos a ningún servidor.
+- **GranCanMatch_bot (bot de Telegram, en funcionamiento 24/7 alojado en VPS)**: éste es un proyecto que quería hacer desde hace un tiempo, y empecé con él en al menos dos ocasiones, pero siempre quedaba a medias por la procrastinación o _lo dejaba para más adelante_. Pero al fin está listo: GranCanMatch_bot (o https://t.me/CitasEnLasPalmas_bot) pretende convertirse en una nueva forma de conocer personas en Gran Canaria, lejos de los algoritmos oscuros de Tinder y otras apps de citas similares, que mercantilizan las relaciones emocionales con prácticas bastante cuestionables, aprovechándose de la soledad —"la enfermedad del siglo XXI"— para llenar sus bolsillos, mientras sigues haciendo swipe sin encontrar ni un solo match o teniendo que pagar suscripciones más caras que las de muchas IA o plataformas de streaming, solo para poder ver quien te ha dado like.
+
+Monetizan cada acción que deberías poder realizar sin romper su modelo de negocio, que además es extremadamente rentable.
+De momento está enfocado exclusivamente a la población de la isla de Gran Canaria 🇮🇨, pero si el proyecto funciona, con el tiempo puede extenderse a otras islas o provincias.
 
 Publicaré más proyectos cuando los termine por completo, e incluso más proyectos que tengo en mente y en mis cuadernos, pero convertirlos en código y hacerlos realidad es solo cuestión de tiempo y aprendizaje. Paso a paso, como decía 2Pac: "Un día a la vez". 😉🙏🍀💥
 
@@ -42,7 +45,9 @@ Publicaré más proyectos cuando los termine por completo, e incluso más proyec
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=D4vRAM369&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/D4vRAM369)
 
 
-## 🇬🇧 English
+## 🇺🇸🇬🇧 English
+
+---
 
 - 👋 Hi, I'm @D4vRAM and I'm a self-taught programming student, gradually working my way up to becoming the developer I want to be!
 - 👀 I'm interested in Linux, programming, scripting, app development, machine learning, AI, ethical hacking, pentesting, and cryptography! I love downloading, testing, and learning about all kinds of apps and software (as many as I can). With Magisk/MagiskDelta/Kitsune or KernelSU, you can do amazing things on an Android phone, and with LSPosed added to the mix, you're open to a wide range of possibilities and customization.
@@ -52,9 +57,7 @@ I'm also very interested in creating Magisk and LSPosed modules. I find it fasci
 
 - 📫 You can contact me via Telegram at t.me/D4vRAM369
 
-- 👤👥 Telegram group to discuss applications, suggestions, or anything related to my projects: https://t.me/D4vRAM
-
-
+- 👤👥 Telegram group to discuss applications, suggestions, or anything related to my projects: https://t.me/D4vRAM369
 
 
 ### 📌 UPDATE 09/15/2025
@@ -73,6 +76,11 @@ I'm a neurodivergent mind with a quite probable ADHD not diagnosed yet, and for 
 - **NowPlayingExporterPy**: Exports the Now Playing history (Android System Intelligence, ASI) from Google Pixel devices to CSV, and adds a function to download the songs listed in that history (via yt-dlp) to the app’s storage.
 - **CBDcounter**: a minimalist and simple app for keeping track of the CBD you smoke each day. It allows you to take daily notes, view your daily, weekly, monthly, and total history, and export and import CSV files with your saved data.
 - **PsychoLogger - Bitácora Psiconáutica**: private psychonaut logbook for Android that allows you to record substances, doses, set & setting, and personal notes, with local encryption, calendar, statistics, and harm reduction resources — all 100% offline and without sending data to any server.
+- **GranCanMatch_bot (Telegram bot, running 24/7 hosted on VPS)**: this is a project I've wanted to do for a while, and I started it at least twice, but I always ended up leaving it half done because I procrastinated or put it off until later. But it's finally ready: GranCanMatch_bot (or https://t.me/CitasEnLasPalmas_bot) aims to become a new way to meet people in Gran Canaria, far from the obscure algorithms of Tinder and other similar dating apps, which commercialize emotional relationships with rather questionable practices, taking advantage of loneliness —"the disease of the 21st century"— to line their pockets, while you keep swiping without finding a single match or having to pay for subscriptions that are more expensive than many AI or streaming platforms, just to see who has liked you.
+
+They monetize every action that you should be able to perform without disrupting their business model, which is also extremely profitable.
+At the moment, it is focused exclusively on the population of the island of Gran Canaria 🇮🇨, but if the project works, it may eventually expand to other islands or provinces.
+
 
 More project would be published when I finished them totally, and even more projects which lives in my mind and notebooks, but the process to convert them to code and to reality is just a matter of time and learning process. Step by step, like 2Pac said, "One day at a time" 😉🙏🍀💥
 
