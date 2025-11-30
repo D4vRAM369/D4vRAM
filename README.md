@@ -55,7 +55,8 @@ _**Constancia, ganas, vocación, disciplina y perseverancia son llaves que abren
 Aquí está mi registro de actividad. **Real code for real problem.**
 
 #### 🤖 **GranCanMatch_bot**
-![Telegram](https://img.shields.io/badge/Telegram-Bot-000000?style=flat-square&logo=telegram&logoColor=00FF41) ![Python](https://img.shields.io/badge/Python-VPS-000000?style=flat-square&logo=python&logoColor=00FF41) ![JS](https://img.shields.io/badge/JavaScript-ES6-000000?style=flat-square&logo=javascript&logoColor=00FF41)
+![Telegram](https://img.shields.io/badge/Telegram-Bot-000000?style=flat-square&logo=telegram&logoColor=00FF41) ![Node.js](https://img.shields.io/badge/Node.js-Server-000000?style=flat-square&logo=node.js&logoColor=00FF41) ![JS](https://img.shields.io/badge/JavaScript-ES6-000000?style=flat-square&logo=javascript&logoColor=00FF41) <img src="https://img.shields.io/badge/Firebase-Firestore-000000?style=flat-square&logo=firebase&logoColor=FFCB2B&labelColor=000000" />
+
 > *Bot de Telegram en funcionamiento 24/7 alojado en VPS.*
 >
 > Éste es un proyecto que quería hacer desde hace un tiempo. **GranCanMatch_bot** (o [t.me/CitasEnLasPalmas_bot](https://t.me/CitasEnLasPalmas_bot)) pretende convertirse en una nueva forma de conocer personas en Gran Canaria 🇮🇨, lejos de los algoritmos oscuros de Tinder que mercantilizan las relaciones. Sin pagar por ver quién te da like. Si funciona, se extenderá a otras islas.
@@ -86,6 +87,8 @@ Aquí está mi registro de actividad. **Real code for real problem.**
   <img src="https://img.shields.io/badge/Shell_Script-000000?style=flat-square&logo=gnu-bash&logoColor=00FF41&labelColor=000000" alt="Bash" />
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00FF41&labelColor=000000" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-ES6-000000?style=flat-square&logo=javascript&logoColor=00FF41&labelColor=000000" alt="JS" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-000000?style=flat-square&logo=node.js&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/HTML5-Structure-000000?style=flat-square&logo=html5&logoColor=00FF41&labelColor=000000" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-Style-000000?style=flat-square&logo=css3&logoColor=00FF41&labelColor=000000" alt="CSS3" />
   
