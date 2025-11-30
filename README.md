@@ -88,13 +88,13 @@ Aquí está mi registro de actividad. **Real code for real problem.**
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00FF41&labelColor=000000" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-ES6-000000?style=flat-square&logo=javascript&logoColor=00FF41&labelColor=000000" alt="JS" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-000000?style=flat-square&logo=node.js&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/HTML5-Structure-000000?style=flat-square&logo=html5&logoColor=00FF41&labelColor=000000" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-Style-000000?style=flat-square&logo=css3&logoColor=00FF41&labelColor=000000" alt="CSS3" />
   
   <br>
   <img src="https://img.shields.io/badge/Android_Studio-000000?style=flat-square&logo=android-studio&logoColor=00FF41&labelColor=000000" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00FF41&labelColor=000000" alt="Git" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-000000?style=flat-square&logo=node.js&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00FF41&labelColor=000000" alt="Linux" />
   <img src="https://img.shields.io/badge/VS_Code-Editor-000000?style=flat-square&logo=visual-studio-code&logoColor=00FF41&labelColor=000000" alt="VSCode" />
   <img src="https://img.shields.io/badge/VSCodium-FOSS-000000?style=flat-square&logo=vscodium&logoColor=00FF41&labelColor=000000" alt="VSCodium" />
