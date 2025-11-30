@@ -1,95 +1,171 @@
+<div align="center">
+  <!-- Banner Matrix -->
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="150" style="object-fit: cover;">
+  <br>
+  
+  <!-- Texto Matrix Animado (Fondo negro, letras verdes) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Wake+up%2C+D4vRAM..." alt="Typing SVG" />
+  </a>
 
-## 🇮🇨🇪🇸 Español
+  <p style="font-family: monospace; color: #00FF41;">
+    <b>Android Developer | Python Scripter | Linux Enthusiast | Open-Source Builder</b>
+  </p>
+
+  <!-- Redes Sociales -->
+  <a href="https://t.me/D4vRAM369">
+    <img src="https://img.shields.io/badge/Telegram-Contact_Me-000000?style=for-the-badge&logo=telegram&logoColor=00FF41&labelColor=000000&color=00FF41" alt="Telegram" />
+  </a>
+  <a href="mailto:d4vram369@proton.me">
+    <img src="https://img.shields.io/badge/Email-Send_Packet-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000&color=00FF41" alt="Email" />
+  </a>
+</div>
 
 ---
 
-- 👋 ¡Hola, soy @D4vRAM y soy un estudiante de programación autodidacta, y en proceso gradual a convertime en el desarrollador que quiero llegar a ser!
-- 👀 ¡Me interesa Linux, la programación, los scripts, el desarrollo de apps, el aprendizaje automático, la IA, el hacking ético, el pentesting y la criptografía! Me encanta descargar, probar y conocer todo tipo de apps y software (tantas como pueda). Con Magisk/MagiskDelta/Kitsune o KernelSU se pueden hacer cosas increíbles en un teléfono Android, y con LSPosed sumado a la ecuación ya tienes abierto un gran abanico de posibilidades y personalización.
+### 👨‍💻 System Status (Sobre mí)
 
-También estoy aprendiendo Python, Kotlin, profundizando en Bash (muy infravalorado), TypeScript, JavaScript... Un poco de todo pero poco a poco, sin abarcar mucho y sin prisas aprendiendo gradualmente. Me encuentro actualmente estudiando principalmente mediante Project-Based Learning (PBL) o Aprendizaje Basado en Proyectos (ABP) como se llama en español, con ayuda de la IA, tomando muchas notas, y exportando chats para estudiarlos previamente con el código delante, profundizando más aún en conceptos que aún estoy aprendiendo. También quiero crear aplicaciones web, además de para Android y para iOS (más adelante éste último) además de software compatible con Linux y obviamente también con Windows (aunque soy Team Linux 🐧 pero no de la categoría extremista, ya pasé esa racha 😝)
+> *"Soy una mente neurodivergente aprendiendo continuamente, mientras creo proyectos útiles para la comunidad y para mi día a día."*
 
-Además me interesa mucho la creación de módulos de Magisk y LSPosed, ¡Me resulta fascinante! Pero vamos que todo esto son muchas cosas, ¿no? ¡Así que paso a paso! Ser constante, tener paciencia, perseverancia y vocación. Esa es la clave.
-- 💞️ Busco colaborar en proyectos de código abierto principalmente en el futuro (y también con objetivos más ambiciosos, por supuesto), además de en un futuro también algunas cosas de código cerrado, pero al menos no por ahora y en mucho tiempo. De momento estoy aprendiendo de forma autodidacta, con mi propio tempus y mi propio $PATH (en el futuro quiero obtener los títulos de VT de DAM y DAW, y los conseguiré).
+Soy un desarrollador apasionado por el **Aprendizaje Basado en Proyectos (ABP)**, o **Project-Based Learning (PBL)** como se le conoce en inglés.
+Mi enfoque es práctico: si veo un problema, codifico una solución.
 
-- 📫 Puedes contactarme por Telegram en t.me/D4vRAM369
+Mi mente suele ser un Ferrari a 200km/h en ideas, creatividad y posibles apps o parches para cosas que considero útiles o con potencial.
+Convierto problemas cotidianos en código, y ese código en herramientas reales: APKs, scripts o pequeños programas que solucionan o facilitan algo concreto.
 
-- 👤🗣️ Grupo de Telegram para comentar sobre las aplicaciones, sugerencias o cualquier cosa relacionada con mis proyectos: https://t.me/D4vRAM
+Desde bots de Telegram para conectar personas (GranCanMatch_bot) hasta módulos de Magisk para mejorar la grabación de audio en WhatsApp (WhatsMicFix), que fue mi primer proyecto subido y tuvo una acogida espectacular. Eso me motivó aún más a seguir el camino en el que ya estaba avanzando con firmeza y con decisión.
+
+_**Constancia, ganas, vocación, disciplina y perseverancia son llaves que abren puertas de éxito.**_
 
 ---
 
-### 📌 ACTUALIZACIÓN 15/09/2025
+- 🔭 **Actualmente trabajando en**: `GranCanMatch_bot` y `PsychoLogger` (proyectos públicos), en cuanto a proyectos no subidos aún varios de ellos que prefiero no nombrar ni dar _spoilers_, hasta el git push origin main a su repositorio correspondiente. Solo entonces hablaré sobre esos proyectos abiertamente por aquí.
+- 🌱 **Aprendiendo**: Formación autodidacta enfocada en construir proyectos reales, entender el “por qué” del código y documentar todo el proceso. Mi método es híbrido: teoría cuando hace falta, práctica constante y la IA como guía personalizada.
+- ⚡ **Filosofía**: "Un día a la vez" (2Pac).
+- 🐧 **OS**: Linux & Android Custom ROMs. Windows próximamente.
 
-Ha pasado un tiempo desde la creación de este repositorio con una presentación README.md.
+---
 
-Actualmente sigo aprendiendo mucho, aprendiendo a usar la IA como una especie de profesor adaptado a mi, tomando apuntes y viendo tutoriales en YouTube y muchos recursos como PDF o herramientas. Como ya mencioné previamente, mi método de estudio favorito y el más utilizado actualmente es el Aprendizaje Basado en Proyectos (ABP), con el que desarrollé mis dos primeros proyectos públicos con la ayuda de la IA. Aprendiendo mientras creo algo real y útil para la comunidad de código abierto, aunque no por ello se puede prescindir del camino convencional a la hora de estudiar. Yo hago una combinación de ambos métodos de estudio.
+### 🚀 Mission Log (Proyectos Publicados)
 
-Obviamente, es fundamental conocer los fundamentos de los diferentes lenguajes de programación y la programación en sí. Por supuesto, esto es absolutamente esencial para convertirse, con el tiempo, el estudio y el trabajo duro, en un buen desarrollador. Soy un programador novato y necesito estudiar mucho para entender cómo funciona al 100% todo el código perteneciente a cada proyecto que he creado, publicados y no publicados.
+Aquí está mi registro de actividad. **Real code for real problem.**
 
-Soy una mente neurodivergente con un probable TDAH aún no diagnosticado, y por eso estudiar solo de forma convencional me resulta muy difícil, ya que no puedo concentrarme en ello sin distraerme con mis pensamientos acelerados y la lluvia de ideas que me ronda la cabeza. Mi camino para convertirme en el desarrollador que quiero ser será difícil, pero nadie dijo que hacer realidad mis sueños fuera fácil, ¿verdad?
+#### 🤖 **GranCanMatch_bot**
+![Telegram](https://img.shields.io/badge/Telegram-Bot-000000?style=flat-square&logo=telegram&logoColor=00FF41) ![Python](https://img.shields.io/badge/Python-VPS-000000?style=flat-square&logo=python&logoColor=00FF41) ![JS](https://img.shields.io/badge/JavaScript-ES6-000000?style=flat-square&logo=javascript&logoColor=00FF41)
+> *Bot de Telegram en funcionamiento 24/7 alojado en VPS.*
+>
+> Éste es un proyecto que quería hacer desde hace un tiempo. **GranCanMatch_bot** (o [t.me/CitasEnLasPalmas_bot](https://t.me/CitasEnLasPalmas_bot)) pretende convertirse en una nueva forma de conocer personas en Gran Canaria 🇮🇨, lejos de los algoritmos oscuros de Tinder que mercantilizan las relaciones. Sin pagar por ver quién te da like. Si funciona, se extenderá a otras islas.
 
-### 🚀 Proyectos publicados
+#### 🔊 **WhatsMicFix**
+![Android](https://img.shields.io/badge/Android-LSPosed-000000?style=flat-square&logo=android&logoColor=00FF41) ![Root](https://img.shields.io/badge/Root-Module-000000?style=flat-square&logo=magisk&logoColor=00FF41) ![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41)
+> Módulo **LSPosed** para mejorar la calidad del audio de WhatsApp aplicando un pre-boost configurable al micrófono (probado en Pixel 8, Android 16). Creado para solucionar el problema de audio bajo en dispositivos Pixel.
 
-- **WhatsMicFix**: módulo LSPosed para mejorar la calidad del audio de WhatsApp aplicando un pre-boost configurable al micrófono (probado en Pixel 8, Android 16). Creado para solucionar el molesto problema que experimentan muchos usuarios de dispositivos Pixel, donde el audio de WhatsApp se graba a bajo volumen. ¡Espero que te ayude tanto como a mí!
-- **NowPlayingExporterPy**: exporta el historial de reproducción (Android System Intelligence, ASI) desde dispositivos Google Pixel a CSV y añade una función para descargar las canciones de ese historial (vía yt-dlp) al almacenamiento de la app.
-- **CBDcounter**: aplicación minimalista y sencilla para llevar un seguimiento de los CBD que te fumas al día. Con posibilidad de tomar notas diarias, ver historial diario, semanal, mensual y total, y capacidad de Exportar e Importar CSV con los datos guardados.
-- **PsychoLogger - Bitácora Psiconáutica**: bitácora psiconáutica privada para Android que te permite registrar sustancias, dosis, set & setting y notas personales, con cifrado local, calendario, estadísticas y recursos de reducción de daños — todo 100% offline y sin enviar datos a ningún servidor.
-- **GranCanMatch_bot (bot de Telegram, en funcionamiento 24/7 alojado en VPS)**: éste es un proyecto que quería hacer desde hace un tiempo, y empecé con él en al menos dos ocasiones, pero siempre quedaba a medias por la procrastinación o _lo dejaba para más adelante_. Pero al fin está listo: GranCanMatch_bot (o https://t.me/CitasEnLasPalmas_bot) pretende convertirse en una nueva forma de conocer personas en Gran Canaria, lejos de los algoritmos oscuros de Tinder y otras apps de citas similares, que mercantilizan las relaciones emocionales con prácticas bastante cuestionables, aprovechándose de la soledad —"la enfermedad del siglo XXI"— para llenar sus bolsillos, mientras sigues haciendo swipe sin encontrar ni un solo match o teniendo que pagar suscripciones más caras que las de muchas IA o plataformas de streaming, solo para poder ver quien te ha dado like.
+#### 🧠 **PsychoLogger - Bitácora Psiconáutica**
+![Android](https://img.shields.io/badge/Android-Hybrid-000000?style=flat-square&logo=android&logoColor=00FF41) ![HTML5](https://img.shields.io/badge/HTML5-Structure-000000?style=flat-square&logo=html5&logoColor=00FF41) ![CSS3](https://img.shields.io/badge/CSS3-Style-000000?style=flat-square&logo=css3&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41) ![Security](https://img.shields.io/badge/Security-Encrypted-000000?style=flat-square&logo=lock&logoColor=00FF41)
+> Bitácora privada para Android que te permite llevar un seguimiento y registro de experiencias con sustancias psicoactivas, dosis, *set & setting* y notas personales. Cuenta con **cifrado local**, calendario, estadísticas y recursos de reducción de daños. Todo 100% offline y sin enviar datos a ningún servidor.
 
-Monetizan cada acción que deberías poder realizar sin romper su modelo de negocio, que además es extremadamente rentable.
-De momento está enfocado exclusivamente a la población de la isla de Gran Canaria 🇮🇨, pero si el proyecto funciona, con el tiempo puede extenderse a otras islas o provincias.
+#### 🌿 **CBDcounter**
+![Android](https://img.shields.io/badge/Android-Kotlin-000000?style=flat-square&logo=kotlin&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41)
+> Aplicación minimalista para llevar un seguimiento del consumo de CBD. Notas diarias, historial (diario/semanal/mensual) y capacidad de Exportar e Importar CSV. 100% offline al igual que PsychoLogger.
 
-Publicaré más proyectos cuando los termine por completo, e incluso más proyectos que tengo en mente y en mis cuadernos, pero convertirlos en código y hacerlos realidad es solo cuestión de tiempo y aprendizaje. Paso a paso, como decía 2Pac: "Un día a la vez". 😉🙏🍀💥
+#### 🎵 **NowPlayingExporterPy**
+![Python](https://img.shields.io/badge/Python-Script-000000?style=flat-square&logo=python&logoColor=00FF41) ![Chaquopy](https://img.shields.io/badge/Python-Chaquopy-000000?style=flat-square&logo=python&logoColor=00FF41) ![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41) ![Root](https://img.shields.io/badge/Root-Required-000000?style=flat-square&logo=magisk&logoColor=00FF41)
+> Exporta el historial de reproducción (*Android System Intelligence*) desde dispositivos Google Pixel a CSV y añade una función para descargar las canciones automáticamente vía `yt-dlp`. Por como es el método de extracción de éste archivo, **ésta app solo es compatible con móviles que tengan privilegios root** _(rooteados)_. _La función de descargas a partir del archivo generado no funcionaba la última vez que lo probé en root, debido a restricciones más severas de Google y YouTube. Invito a que cualquiera haga un fork o proponga una mejora para el proyecto, si está interesado además en ser **Contributor**._
+
+---
+
+### 🛠️ Arsenal (Tech Stack)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=kotlin&logoColor=00FF41&labelColor=000000" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41&labelColor=000000" alt="Python" />
+  <img src="https://img.shields.io/badge/Shell_Script-000000?style=flat-square&logo=gnu-bash&logoColor=00FF41&labelColor=000000" alt="Bash" />
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00FF41&labelColor=000000" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-000000?style=flat-square&logo=javascript&logoColor=00FF41&labelColor=000000" alt="JS" />
+  <img src="https://img.shields.io/badge/HTML5-Structure-000000?style=flat-square&logo=html5&logoColor=00FF41&labelColor=000000" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-Style-000000?style=flat-square&logo=css3&logoColor=00FF41&labelColor=000000" alt="CSS3" />
+  
+  <br>
+  <img src="https://img.shields.io/badge/Android_Studio-000000?style=flat-square&logo=android-studio&logoColor=00FF41&labelColor=000000" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00FF41&labelColor=000000" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00FF41&labelColor=000000" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-Editor-000000?style=flat-square&logo=visual-studio-code&logoColor=00FF41&labelColor=000000" alt="VSCode" />
+  <img src="https://img.shields.io/badge/VSCodium-FOSS-000000?style=flat-square&logo=vscodium&logoColor=00FF41&labelColor=000000" alt="VSCodium" />
+  <img src="https://img.shields.io/badge/Antigravity_IDE-Workspace-000000?style=flat-square&logo=jetbrains&logoColor=00FF41&labelColor=000000" alt="Antigravity IDE" />
+
+  <img src="https://img.shields.io/badge/Telegram_API-000000?style=flat-square&logo=telegram&logoColor=00FF41&labelColor=000000" alt="Telegram API" />
+</div>
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=D4vRAM369&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10"
+    alt="GitHub Trophies"
+  />
+</div>
+
+
+---
+
+### 📊 Data Uplink (Stats)
+
+<div align="center">
+
+  <img
+  src="https://d4vram-github-readme-stats.vercel.app/api?username=D4vRAM369&show_icons=true&hide_border=true&bg_color=000000,050d05,000000&title_color=00FF41&icon_color=00FF41&text_color=C8FFD8"
+  height="180"
+  style="border-radius:14px; box-shadow:0 0 18px #00FF4177; margin:6px;"
+  />
+
+
+  <img
+  src="https://d4vram-github-readme-stats.vercel.app/api/top-langs/?username=D4vRAM369&layout=compact&hide_border=true&bg_color=000000,051008,000000&title_color=00FF41&text_color=C8FFD8"
+  height="180"
+  style="border-radius:14px; box-shadow:0 0 18px #00FF4177; margin:6px;"
+/>
+
+
+  <img
+  src="https://streak-stats.demolab.com?user=D4vRAM369&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=00FF41&sideNums=00FF41&sideLabels=00FF41&dates=68FF9A"
+  height="180"
+  style="border-radius:14px; box-shadow:0 0 18px #00FF4177; margin:6px;"
+/>
+
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<div align="center">
+  
+---
 
 ### ☕ Apóyame
+<div align="center">
 
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=D4vRAM369&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/D4vRAM369)
 
+</div>
 
-## 🇺🇸🇬🇧 English
+<br/>
 
----
+  <!-- GIFS alineados -->
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="90" />
+  <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/back-to-the-future-delorean-comes-back.gif" height="90" />
+  <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/cyberpunk-wakeup.gif" height="90" />
+  <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/the-matrix-has-you.gif" height="90" />
 
-- 👋 Hi, I'm @D4vRAM and I'm a self-taught programming student, gradually working my way up to becoming the developer I want to be!
-- 👀 I'm interested in Linux, programming, scripting, app development, machine learning, AI, ethical hacking, pentesting, and cryptography! I love downloading, testing, and learning about all kinds of apps and software (as many as I can). With Magisk/MagiskDelta/Kitsune or KernelSU, you can do amazing things on an Android phone, and with LSPosed added to the mix, you're open to a wide range of possibilities and customization.
-I'm also learning Python, Kotlin, going deeper into Bash (very underrated), TypeScript, JavaScript... A little bit of everything but little by little, without taking on too much and without rushing, learning gradually. I'm currently studying mainly through Project-Based Learning (PBL) or Learning Based on Projects (ABP) as it's called in Spanish, with the help of AI, taking a lot of notes, and exporting chats to study them beforehand with the code in front of me, going even deeper into concepts I'm still learning. I also want to create web applications, in addition to those for Android and iOS (more on the latter later), as well as software compatible with Linux and obviously also with Windows (although I'm Team Linux 🐧 but not in the extremist category, I already overcome that stage) 😝
-I'm also very interested in creating Magisk and LSPosed modules. I find it fascinating! But hey, that's a lot, isn't it? So, step by step, friends! Be consistent, have patience, perseverance, and dedication. That's the key.
-- 💞️ I'm looking to collaborate on open source projects mainly in the future (and also with more ambitious goals, of course), as well as some closed source projects in the future, but at least not for now and not for a long time. For now, I'm self-taught, using my own tempus and my own $PATH (in the future, I want to obtain the DAM and DAW VT certifications, and I will).
+  <!-- Este se queda grande -->
+  <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/tequiero_eternacompañera-resized.gif" width="100" />
 
-- 📫 You can contact me via Telegram at t.me/D4vRAM369
+</div>
 
-- 👤👥 Telegram group to discuss applications, suggestions, or anything related to my projects: https://t.me/D4vRAM369
-
-
-### 📌 UPDATE 09/15/2025
-
-It's been a while since I created this repository with a README.md presentation.
-
-I'm currently still learning a lot, learning more. to use AI as a kind of teacher tailored to me, taking notes and watching YouTube tutorials and many resources such as PDFs or tools. As I mentioned previously, my favorite and most widely used study method currently is Project-Based Learning (PBL), with which I developed my first two public projects with the help of AI. Learning while creating something real and useful for the open source community, although that doesn't mean you can't ignore the conventional path when it comes to studying. I use a combination of both study methods.
-
-Obviously, it's essential to know the basics of different programming languages ​​and programming itself. Of course, this is absolutely essential to become, over time, with study and hard work, a good developer. I'm a novice programmer and I need to study a lot to fully understand how all the code belonging to each project I've created, published and unpublished, works.
-
-I'm a neurodivergent mind with a quite probable ADHD not diagnosed yet, and for that reason study only in a conventional way, is a really hard task to me about can keep the focus on it, without getting menntally distracted with my racing thoughts and the brainstorming which lives in my head. My journey to becoming the developer I want to be will be difficult, but nobody said make real your dreams was an easy stuff, right?
-
-### 🚀 Current published projects
-
-- **WhatsMicFix**: LSPosed module to improve WhatsApp audio quality by applying a configurable pre-boost to the microphone (tested on Pixel 8, Android 16). Created to solve the annoying problem that many Pixel device users experience, where WhatsApp audio is recorded at low volume. I hope it helps you as much as it helps me!
-- **NowPlayingExporterPy**: Exports the Now Playing history (Android System Intelligence, ASI) from Google Pixel devices to CSV, and adds a function to download the songs listed in that history (via yt-dlp) to the app’s storage.
-- **CBDcounter**: a minimalist and simple app for keeping track of the CBD you smoke each day. It allows you to take daily notes, view your daily, weekly, monthly, and total history, and export and import CSV files with your saved data.
-- **PsychoLogger - Bitácora Psiconáutica**: private psychonaut logbook for Android that allows you to record substances, doses, set & setting, and personal notes, with local encryption, calendar, statistics, and harm reduction resources — all 100% offline and without sending data to any server.
-- **GranCanMatch_bot (Telegram bot, running 24/7 hosted on VPS)**: this is a project I've wanted to do for a while, and I started it at least twice, but I always ended up leaving it half done because I procrastinated or put it off until later. But it's finally ready: GranCanMatch_bot (or https://t.me/CitasEnLasPalmas_bot) aims to become a new way to meet people in Gran Canaria, far from the obscure algorithms of Tinder and other similar dating apps, which commercialize emotional relationships with rather questionable practices, taking advantage of loneliness —"the disease of the 21st century"— to line their pockets, while you keep swiping without finding a single match or having to pay for subscriptions that are more expensive than many AI or streaming platforms, just to see who has liked you.
-
-They monetize every action that you should be able to perform without disrupting their business model, which is also extremely profitable.
-At the moment, it is focused exclusively on the population of the island of Gran Canaria 🇮🇨, but if the project works, it may eventually expand to other islands or provinces.
-
-
-More project would be published when I finished them totally, and even more projects which lives in my mind and notebooks, but the process to convert them to code and to reality is just a matter of time and learning process. Step by step, like 2Pac said, "One day at a time" 😉🙏🍀💥
-
-### ☕ Support
-
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=D4vRAM369&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/D4vRAM369)
-
-
-<!---
-painkiller1717/painkiller1717 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
