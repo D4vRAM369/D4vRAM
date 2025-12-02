@@ -73,7 +73,7 @@ Aquí está mi registro de actividad. **Real code for real problem.**
 ![Android](https://img.shields.io/badge/Android-Kotlin-000000?style=flat-square&logo=kotlin&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41)
 > Aplicación minimalista para llevar un seguimiento del consumo de CBD. Notas diarias, historial (diario/semanal/mensual) y capacidad de Exportar e Importar CSV. 100% offline al igual que PsychoLogger.
 
-#### [🎵 **NowPlayingExporterPy**](https://github.com/D4vRAM369/NowPlayingExportPy)
+#### [🎵 **NowPlayingExporterPy**](https://github.com/D4vRAM369/NowPlayingExporterPy)
 ![Python](https://img.shields.io/badge/Python-Script-000000?style=flat-square&logo=python&logoColor=00FF41) ![Chaquopy](https://img.shields.io/badge/Python-Chaquopy-000000?style=flat-square&logo=python&logoColor=00FF41) ![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41) ![Root](https://img.shields.io/badge/Root-Required-000000?style=flat-square&logo=magisk&logoColor=00FF41)
 > Exporta el historial de reproducción (*Android System Intelligence*) desde dispositivos Google Pixel a CSV y añade una función para descargar las canciones automáticamente vía `yt-dlp`. Por como es el método de extracción de éste archivo, **ésta app solo es compatible con móviles que tengan privilegios root** _(rooteados)_. _La función de descargas a partir del archivo generado no funcionaba la última vez que lo probé en root, debido a restricciones más severas de Google y YouTube. Invito a que cualquiera haga un fork o proponga una mejora para el proyecto, si está interesado además en ser **Contributor**._
 
