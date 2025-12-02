@@ -120,28 +120,28 @@ Here is my activity log. **Real code for real problems.**
 ### 📊 Data Uplink (Stats)
 
 <div align="center">
-
+  
   <img
   src="https://d4vram-github-readme-stats.vercel.app/api?username=D4vRAM369&show_icons=true&hide_border=true&bg_color=000000,050d05,000000&title_color=00FF41&icon_color=00FF41&text_color=C8FFD8"
   height="180"
   style="border-radius:14px; box-shadow:0 0 18px #00FF4177; margin:6px;"
+  alt="GitHub Stats"
   />
-
-
+  
   <img
   src="https://d4vram-github-readme-stats.vercel.app/api/top-langs/?username=D4vRAM369&layout=compact&hide_border=true&bg_color=000000,051008,000000&title_color=00FF41&text_color=C8FFD8"
   height="180"
   style="border-radius:14px; box-shadow:0 0 18px #00FF4177; margin:6px;"
-/>
-
-
-  <img
-  src="https://streak-stats.demolab.com?user=D4vRAM369&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=00FF41&sideNums=00FF41&sideLabels=00FF41&dates=68FF9A"
+  alt="Top Langs"
+  />
+  
+  <img 
+  src="https://d4vram-readme-streak-stats.vercel.app/?user=D4vRAM369&hide_border=true&background=000000,051008,000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=00FF41&sideNums=00FF41&sideLabels=00FF41&dates=68FF9A&v=4"
   height="180"
-  style="border-radius:14px; box-shadow:0 0 18px #00FF4177; margin:6px;"
-/>
-
-
+  style="border-radius:14px; box-shadow:0 0 18px #00FF4177; margin:6px;" 
+  alt="Streak Stats"
+  />
+  
 </div>
 
 ---
