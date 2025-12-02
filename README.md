@@ -54,26 +54,26 @@ _**Constancia, ganas, vocación, disciplina y perseverancia son llaves que abren
 
 Aquí está mi registro de actividad. **Real code for real problem.**
 
-#### 🤖 **GranCanMatch_bot**
+#### [🤖 **GranCanMatch_bot**](https://github.com/D4vRAM369/GranCanMatch_bot)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-000000?style=flat-square&logo=telegram&logoColor=00FF41) ![Node.js](https://img.shields.io/badge/Node.js-Server-000000?style=flat-square&logo=node.js&logoColor=00FF41) ![JS](https://img.shields.io/badge/JavaScript-ES6-000000?style=flat-square&logo=javascript&logoColor=00FF41) <img src="https://img.shields.io/badge/Firebase-Firestore-000000?style=flat-square&logo=firebase&logoColor=FFCB2B&labelColor=000000" />
 
 > *Bot de Telegram en funcionamiento 24/7 alojado en VPS.*
 >
 > Éste es un proyecto que quería hacer desde hace un tiempo. **GranCanMatch_bot** (o [t.me/CitasEnLasPalmas_bot](https://t.me/CitasEnLasPalmas_bot)) pretende convertirse en una nueva forma de conocer personas en Gran Canaria 🇮🇨, lejos de los algoritmos oscuros de Tinder que mercantilizan las relaciones. Sin pagar por ver quién te da like. Si funciona, se extenderá a otras islas.
 
-#### 🔊 **WhatsMicFix**
+#### [🔊 **WhatsMicFix**](https://github.com/D4vRAM369/WhatsMicFix)
 ![Android](https://img.shields.io/badge/Android-LSPosed-000000?style=flat-square&logo=android&logoColor=00FF41) ![Root](https://img.shields.io/badge/Root-Module-000000?style=flat-square&logo=magisk&logoColor=00FF41) ![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41)
 > Módulo **LSPosed** para mejorar la calidad del audio de WhatsApp aplicando un pre-boost configurable al micrófono (probado en Pixel 8, Android 16). Creado para solucionar el problema de audio bajo en dispositivos Pixel.
 
-#### 🧠 **PsychoLogger - Bitácora Psiconáutica**
+#### [🧠 **PsychoLogger - Bitácora Psiconáutica**](https://github.com/D4vRAM369/PsychoLogger)
 ![Android](https://img.shields.io/badge/Android-Hybrid-000000?style=flat-square&logo=android&logoColor=00FF41) ![HTML5](https://img.shields.io/badge/HTML5-Structure-000000?style=flat-square&logo=html5&logoColor=00FF41) ![CSS3](https://img.shields.io/badge/CSS3-Style-000000?style=flat-square&logo=css3&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41) ![Security](https://img.shields.io/badge/Security-Encrypted-000000?style=flat-square&logo=lock&logoColor=00FF41)
 > Bitácora privada para Android que te permite llevar un seguimiento y registro de experiencias con sustancias psicoactivas, dosis, *set & setting* y notas personales. Cuenta con **cifrado local**, calendario, estadísticas y recursos de reducción de daños. Todo 100% offline y sin enviar datos a ningún servidor.
 
-#### 🌿 **CBDcounter**
+#### [🌿 **CBDcounter**](https://github.com/D4vRAM369/CBDcounter)
 ![Android](https://img.shields.io/badge/Android-Kotlin-000000?style=flat-square&logo=kotlin&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41)
 > Aplicación minimalista para llevar un seguimiento del consumo de CBD. Notas diarias, historial (diario/semanal/mensual) y capacidad de Exportar e Importar CSV. 100% offline al igual que PsychoLogger.
 
-#### 🎵 **NowPlayingExporterPy**
+#### [🎵 **NowPlayingExporterPy**](https://github.com/D4vRAM369/NowPlayingExportPy)
 ![Python](https://img.shields.io/badge/Python-Script-000000?style=flat-square&logo=python&logoColor=00FF41) ![Chaquopy](https://img.shields.io/badge/Python-Chaquopy-000000?style=flat-square&logo=python&logoColor=00FF41) ![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41) ![Root](https://img.shields.io/badge/Root-Required-000000?style=flat-square&logo=magisk&logoColor=00FF41)
 > Exporta el historial de reproducción (*Android System Intelligence*) desde dispositivos Google Pixel a CSV y añade una función para descargar las canciones automáticamente vía `yt-dlp`. Por como es el método de extracción de éste archivo, **ésta app solo es compatible con móviles que tengan privilegios root** _(rooteados)_. _La función de descargas a partir del archivo generado no funcionaba la última vez que lo probé en root, debido a restricciones más severas de Google y YouTube. Invito a que cualquiera haga un fork o proponga una mejora para el proyecto, si está interesado además en ser **Contributor**._
 
