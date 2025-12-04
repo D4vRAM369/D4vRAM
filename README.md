@@ -75,7 +75,7 @@ Aquí está mi registro de actividad. **Real code for real problem.**
 
 #### [🔊 **WhatsMicFix**](https://github.com/D4vRAM369/WhatsMicFix)
 ![Android](https://img.shields.io/badge/Android-LSPosed-000000?style=flat-square&logo=android&logoColor=00FF41) ![Root](https://img.shields.io/badge/Root-Module-000000?style=flat-square&logo=magisk&logoColor=00FF41) ![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41)
-> Módulo **LSPosed** para mejorar la calidad del audio de WhatsApp aplicando un pre-boost configurable al micrófono (probado en Pixel 8, Android 16). Creado para solucionar el problema de audio bajo en dispositivos Pixel.
+> Módulo **LSPosed** para mejorar la calidad del audio de WhatsApp aplicando un pre-boost configurable al micrófono (probado en Pixel 8, Android 16). Creado para solucionar el problema de audio bajo en algunos dispositivos Pixel.
 
 ---
 
