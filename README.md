@@ -109,11 +109,10 @@ Aquí está mi registro de actividad. **Real code for real problem.**
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=D4vRAM369&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10"
-    alt="GitHub Trophies"
+    src="https://vercel-trophy.vercel.app/api/trophy?username=D4vRAM369&columns=3"
+    alt="GitHub Trophy — D4vRAM369"
   />
 </div>
-
 
 ---
 
