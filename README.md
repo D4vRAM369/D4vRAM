@@ -170,8 +170,8 @@ Aquí está mi registro de actividad. **Real code for real problem.**
   <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/cyberpunk-wakeup.gif" height="90" />
   <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/the-matrix-has-you.gif" height="90" />
 
-  <!-- Este se queda grande -->
-  <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/tequiero_eternacompañera-resized.gif" width="90" />
+  <!-- 🖤🤍 -->
+  <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/tequiero_eternacompañera-resized.gif" height="90" />
 
 </div>
 
