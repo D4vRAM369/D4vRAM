@@ -43,7 +43,7 @@ _**Constancia, ganas, vocación, disciplina y perseverancia son llaves que abren
 
 ---
 
-- 🔭 **Actualmente trabajando en**: `GranCanMatch_bot` y `PsychoLogger` (proyectos públicos), en cuanto a proyectos no subidos aún varios de ellos que prefiero no nombrar ni dar _spoilers_, hasta el git push origin main a su repositorio correspondiente. Solo entonces hablaré sobre esos proyectos abiertamente por aquí.
+- 🔭 **Actualmente trabajando en**: `AhorrApp`, `GranCanMatch_bot` y `PsychoLogger` (proyectos públicos), en cuanto a proyectos no subidos aún varios de ellos que prefiero no nombrar ni dar _spoilers_, hasta el git push origin main a su repositorio correspondiente. Solo entonces hablaré sobre esos proyectos abiertamente por aquí.
 - 🌱 **Aprendiendo**: Formación autodidacta enfocada en construir proyectos reales, entender el “por qué” del código y documentar todo el proceso. Mi método es híbrido: teoría cuando hace falta, práctica constante y la IA como guía personalizada.
 - ⚡ **Filosofía**: _"One day at a time"_ (2Pac).
 - 🐧 **OS**: Linux & Android Custom ROMs. Windows próximamente.
@@ -53,6 +53,19 @@ _**Constancia, ganas, vocación, disciplina y perseverancia son llaves que abren
 ### 🚀 Mission Log (Proyectos Publicados)
 
 Aquí está mi registro de actividad. **Real code for real problem.**
+
+### [🇮🇨💰💪🛒 **AhorrApp**](https://github.com/D4vRAM369/AhorrApp/)
+![Android](https://img.shields.io/badge/Android-Kotlin_&_Jetpack_Compose-000000?style=flat-square&logo=android&logoColor=00FF41)
+![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41)
+![Compose](https://img.shields.io/badge/Jetpack-Compose-000000?style=flat-square&logo=jetpackcompose&logoColor=00FF41)
+![Supabase](https://img.shields.io/badge/Backend-Supabase-000000?style=flat-square&logo=supabase&logoColor=00FF41)
+![OpenFoodFacts](https://img.shields.io/badge/API-OpenFoodFacts-000000?style=flat-square&logo=openfoodfacts&logoColor=00FF41)
+![Security](https://img.shields.io/badge/Privacy-Sin_Trackers-000000?style=flat-square&logo=shield&logoColor=00FF41)
+![License: BUSL-1.1](https://img.shields.io/badge/License-BUSL--1.1-blue)
+
+> *Aplicación para una mejor gestión y ahorro para la economia cotidiana de los residentes de Gran Canarias, Las Palmas*
+>
+> Éste proyecto nace como respuesta a las continuas subidas de precios de los distintas cadenas de supermercados repartidos por Gran Canaria, especialmente en Las Palmas, capital. Propone un método para un sistema de ahorro favorable para el pueblo canario, comparando y contribuyendo con cada escaneo de cualquier producto a una base de datos comunitaria en Supabase. Funciona con la API libre de OpenFoodFacts, pero entre todos podemos añadir los productos que faltan y sus precios, e ir actualizándolos. Tiene un comparador de precios entre los distintos supermercados existentes, y con la opción de añadir otro si se me escapa alguno.
 
 #### [🤖 **GranCanMatch_bot**](https://github.com/D4vRAM369/GranCanMatch_bot)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-000000?style=flat-square&logo=telegram&logoColor=00FF41) ![Node.js](https://img.shields.io/badge/Node.js-Server-000000?style=flat-square&logo=node.js&logoColor=00FF41) ![JS](https://img.shields.io/badge/JavaScript-ES6-000000?style=flat-square&logo=javascript&logoColor=00FF41) <img src="https://img.shields.io/badge/Firebase-Firestore-000000?style=flat-square&logo=firebase&logoColor=FFCB2B&labelColor=000000" />
