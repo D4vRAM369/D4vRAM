@@ -55,6 +55,20 @@ _**Perseverance, enthusiasm, dedication, discipline, and perseverance are the ke
 
 Here is my activity log. **Real code for real problems.**
 
+### [🇮🇨💰💪🛒 **AhorrApp**](https://github.com/D4vRAM369/AhorrApp/)
+![Android](https://img.shields.io/badge/Android-Kotlin_&_Jetpack_Compose-000000?style=flat-square&logo=android&logoColor=00FF41)
+![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41)
+![Compose](https://img.shields.io/badge/Jetpack-Compose-000000?style=flat-square&logo=jetpackcompose&logoColor=00FF41)
+![Supabase](https://img.shields.io/badge/Backend-Supabase-000000?style=flat-square&logo=supabase&logoColor=00FF41)
+![OpenFoodFacts](https://img.shields.io/badge/API-OpenFoodFacts-000000?style=flat-square&logo=openfoodfacts&logoColor=00FF41)
+![Security](https://img.shields.io/badge/Privacy-Sin_Trackers-000000?style=flat-square&logo=shield&logoColor=00FF41)
+![License: BUSL-1.1](https://img.shields.io/badge/License-BUSL--1.1-blue)
+
+> Application for better management and savings for the daily economy of residents of Gran Canaria, Las Palmas.
+>
+> This project was created in response to continuous price increases by various supermarket chains throughout Gran Canaria, especially in Las Palmas, the capital. It proposes a method for a savings system that benefits the people of the Canary Islands, comparing and contributing with each scan of any product to a community database in Supabase. It works with the free OpenFoodFacts API, but together we can add missing products and their prices and keep them updated. It has a price comparison tool between the different existing supermarkets, with the option to add another if I miss one.
+
+
 #### 🤖 [**GranCanMatch_bot**](https://github.com/D4vRAM369/GranCanMatch_bot)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-000000?style=flat-square&logo=telegram&logoColor=00FF41) ![Node.js](https://img.shields.io/badge/Node.js-Server-000000?style=flat-square&logo=node.js&logoColor=00FF41) ![JS](https://img.shields.io/badge/JavaScript-ES6-000000?style=flat-square&logo=javascript&logoColor=00FF41) <img src="https://img.shields.io/badge/Firebase-Firestore-000000?style=flat-square&logo=firebase&logoColor=FFCB2B&labelColor=000000" />
 > *Telegram bot running 24/7 hosted on VPS.*
