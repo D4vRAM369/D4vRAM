@@ -65,7 +65,7 @@ Aquí está mi registro de actividad. **Real code for real problem.**
 
 > *Aplicación para una mejor gestión y ahorro para la economia cotidiana de los residentes de Gran Canarias, Las Palmas*
 > 
-> 🚧 _ÉSTE PROYECTO HA SIDO ARCHIVADO DE MOMENTO, A FALTA DE AJUSTES QUE HACERLE PARA UN CORRECTO FUNCIONAMIENTO._ 🚧
+> 🚧 _ÉSTE PROYECTO HA SIDO "ARCHIVADO" DE MOMENTO, A FALTA DE AJUSTES QUE HACERLE PARA UN CORRECTO FUNCIONAMIENTO. Hasta entonces, el repositorio se mantendrá oculto_ 🚧
 > 
 > Éste proyecto nace como respuesta a las continuas subidas de precios de los distintas cadenas de supermercados repartidos por Gran Canaria, especialmente en Las Palmas, capital. Propone un método para un sistema de ahorro favorable para el pueblo canario, comparando y contribuyendo con cada escaneo de cualquier producto a una base de datos comunitaria en Supabase. Funciona con la API libre de OpenFoodFacts, pero entre todos podemos añadir los productos que faltan y sus precios, e ir actualizándolos. Tiene un comparador de precios entre los distintos supermercados existentes, y con la opción de añadir otro si se me escapa alguno.
 
