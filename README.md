@@ -72,7 +72,7 @@ Aquí está mi registro de actividad. **Real code for real problem.**
 #### [🤖 **GranCanMatch_bot**](https://github.com/D4vRAM369/GranCanMatch_bot)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-000000?style=flat-square&logo=telegram&logoColor=00FF41) ![Node.js](https://img.shields.io/badge/Node.js-Server-000000?style=flat-square&logo=node.js&logoColor=00FF41) ![JS](https://img.shields.io/badge/JavaScript-ES6-000000?style=flat-square&logo=javascript&logoColor=00FF41) <img src="https://img.shields.io/badge/Firebase-Firestore-000000?style=flat-square&logo=firebase&logoColor=FFCB2B&labelColor=000000" />
 
-> *Bot de Telegram en funcionamiento 24/7 alojado en VPS.*
+> ***ÉSTE BOT DE TELEGRAM YA NO ESTÁ EN FUNCIONAMIENTO**. SI QUIERES SEGUIR FORMANDO PARTE DE LA ANTIGUA COMUNIDAD, ÚNETE AL GRUPO DE TELEGRAM [T.ME/GRANCANMATCH](https://t.me/GranCanMatch).*
 >
 > Éste es un proyecto que quería hacer desde hace un tiempo. **GranCanMatch_bot** (o [t.me/CitasEnLasPalmas_bot](https://t.me/CitasEnLasPalmas_bot)) pretende convertirse en una nueva forma de conocer personas en Gran Canaria 🇮🇨, lejos de los algoritmos oscuros de Tinder que mercantilizan las relaciones. Sin pagar por ver quién te da like. Si funciona, se extenderá a otras islas.
 
