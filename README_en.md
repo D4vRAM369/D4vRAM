@@ -9,7 +9,7 @@
   </a>
 
   <p style="font-family: monospace; color: #00FF41;">
-    <b>Android Developer | Python Scripter | Linux Enthusiast | Open-Source Builder</b>
+    <b>Android Developer | Python Scripter | Linux Enthusiast | Open-Source Builder | Vibe Coder</b>
   </p>
 
   <!-- Redes Sociales -->
