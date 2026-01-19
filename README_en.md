@@ -186,7 +186,7 @@ Here is my activity log. **Real code for real problems.**
   <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/the-matrix-has-you.gif" height="90" />
 
   <!-- Miss u 🖤 -->
-  <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/tequiero_eternacompañera-resized.gif" width="90" />
+  <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/tequiero_eternacompañera-resized.gif" height="90" />
 
 </div>
 
